@@ -1,4 +1,4 @@
-USE [Porfolio]
+USE [Portfolio]
 GO
 
 /****** Object:  Table [dbo].[Associados]    Script Date: 29/01/2024 09:50:45 ******/

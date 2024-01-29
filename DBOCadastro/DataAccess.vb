@@ -7,7 +7,7 @@ Public Class DataAccess
     Private da As SqlDataAdapter
     Private dr As SqlDataReader
     Public Sub New()
-        conexao = New SqlConnection("Server=SEUSERVIDOR;Database=Porfolio;Trusted_Connection=True; ")
+        conexao = New SqlConnection("Server=SEUSERVIDOR;Database=Portfolio;Trusted_Connection=True; ")
     End Sub
 
     Public Sub CloseConn()
