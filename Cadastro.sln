@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Portfolio", "Portfolio\Portfolio.vbproj", "{C32D3F17-FEB2-48AA-9554-8CB0904F17B4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DBOCadastro", "DBOCadastro\DBOCadastro.vbproj", "{59146B75-CDC7-4EE2-A154-FA5DDA6BE27E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C32D3F17-FEB2-48AA-9554-8CB0904F17B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32D3F17-FEB2-48AA-9554-8CB0904F17B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32D3F17-FEB2-48AA-9554-8CB0904F17B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32D3F17-FEB2-48AA-9554-8CB0904F17B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59146B75-CDC7-4EE2-A154-FA5DDA6BE27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59146B75-CDC7-4EE2-A154-FA5DDA6BE27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59146B75-CDC7-4EE2-A154-FA5DDA6BE27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59146B75-CDC7-4EE2-A154-FA5DDA6BE27E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {088A22F2-4738-4544-B4FC-62BD89EC165A}
+	EndGlobalSection
+EndGlobal
